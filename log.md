@@ -7,3 +7,11 @@
 **Thoughts:** I worked on the landing page (index.html) first. Still in progress ~~so didn't commit changes to GitHub~~ but committed changes to landing_page branch. Changing the website to use Bootstrap to be responsive. Also paying heavy attention to design. So I finished a mock design. Following the steps from Trello board that I organized into design, development, content, test, and ideas. Think I can put in more time though, definitely more than 1 hour a day.
 
 **Link to work:** [landing_page branch](https://github.com/nsivapalan/nsivapalan.github.io/tree/landing_page)
+
+### Day 1: January 4, 2017
+
+**Today's Progress**: Completed implementation of landing page!
+
+**Thoughts:** I continued my progress on the landing page. I updated the content, changed the HTML, and updated CSS rules to implement a more simplistic, flat, responsive design. The design still needs some work - need to work on the buttons, links, and navbar.
+
+**Link to work:** [landing_page](https://nsivapalan.github.io/)
