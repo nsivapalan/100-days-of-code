@@ -10,7 +10,7 @@
 
 ### Day 1: January 4, 2017
 
-**Today's Progress**: Completed implementation of landing page!
+**Today's Progress**: Completed implementation of landing and contact pages!
 
 **Thoughts:** I continued my progress on the landing page and finished implementing both the landing and contact pages! I updated the content, removed unnecessary things like images and FontAwesome directory, changed the HTML, and updated CSS rules to implement a more simplistic, flat, responsive design. The design still needs some work - need to work on the buttons, links, and navbar.
 
