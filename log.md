@@ -12,6 +12,6 @@
 
 **Today's Progress**: Completed implementation of landing page!
 
-**Thoughts:** I continued my progress on the landing page. I updated the content, changed the HTML, and updated CSS rules to implement a more simplistic, flat, responsive design. The design still needs some work - need to work on the buttons, links, and navbar.
+**Thoughts:** I continued my progress on the landing page and finished implementing both the landing and contact pages! I updated the content, removed unnecessary things like images and FontAwesome directory, changed the HTML, and updated CSS rules to implement a more simplistic, flat, responsive design. The design still needs some work - need to work on the buttons, links, and navbar.
 
-**Link to work:** [landing_page](https://nsivapalan.github.io/)
+**Link to work:** [landing page](https://nsivapalan.github.io/)
