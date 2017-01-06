@@ -15,3 +15,11 @@
 **Thoughts:** I continued my progress on the landing page and finished implementing both the landing and contact pages! I updated the content, removed unnecessary things like images and FontAwesome directory, changed the HTML, and updated CSS rules to implement a more simplistic, flat, responsive design. The design still needs some work - need to work on the buttons, links, and navbar.
 
 **Link to work:** [landing page](https://nsivapalan.github.io/)
+
+### Day 2: January 5, 2017
+
+**Today's Progress**: Completed implementation of portfolio page! Also, organized all FCC projects into a repo.
+
+**Thoughts:** I finished the portfolio page and made some minor changes to other parts of the website. Updated the README too. I moved all my FCC projects into a single [repo](https://github.com/nsivapalan/fcc-frontendprojects) and included a README on there. Next up for the website: JavaScript/jQuery effects, design changes to the navbar, links, and other parts.
+
+**Link to work:** [portfolio page](https://nsivapalan.github.io/portfolio.html)
