@@ -23,3 +23,11 @@
 **Thoughts:** I finished the portfolio page and made some minor changes to other parts of the website. Updated the README too. I moved all my FCC projects into a single [repo](https://github.com/nsivapalan/fcc-frontendprojects) and included a README on there. Next up for the website: JavaScript/jQuery effects, design changes to the navbar, links, and other parts.
 
 **Link to work:** [portfolio page](https://nsivapalan.github.io/portfolio.html)
+
+### Day 3: January 6, 2017
+
+**Today's Progress**: Completed redesigning and rebuilding my entire personal website!
+
+**Thoughts:** I finished the entire website, completing the design requirements and cleaning up the files by writing cleaner code. Still can be improved, though. I then tested the speed using Google's Page Insights tool, and then made some tweaks such as removing inline CSS and using `async` and `defer` for my JS scripts to avoid render-blocking. Learned a lot in the process of redesigning and rebuilding this website, definitely more than I thought I would for a website that uses mostly HTML, CSS, Bootstrap and very little JavaScript.
+
+**Link to work:** [personal website](https://nsivapalan.github.io/)
