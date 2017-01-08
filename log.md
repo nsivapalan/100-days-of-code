@@ -31,3 +31,13 @@
 **Thoughts:** I finished the entire website, completing the design requirements and cleaning up the files by writing cleaner code. Still can be improved, though. I then tested the speed using Google's Page Insights tool, and then made some tweaks such as removing inline CSS and using `async` and `defer` for my JS scripts to avoid render-blocking. Learned a lot in the process of redesigning and rebuilding this website, definitely more than I thought I would for a website that uses mostly HTML, CSS, Bootstrap and very little JavaScript.
 
 **Link to work:** [personal website](https://nsivapalan.github.io/)
+
+### Day 4: January 7, 2017
+
+**Today's Progress**: Worked on Wikipedia Viewer project.
+
+**Thoughts:** I couldn't make that much progress on the Wiki Viewer today. Struggling with the docs and how to use the API. My search is not working properly in that it refreshes the page as soon as I click search. Getting different results with different queries so I'm making some progress as to what I need to use with the API. 
+
+**Link to work:** [Wiki viewer](https://nsivapalan.github.io/fcc-frontendprojects/wiki_viewer/index.html)
+
+
