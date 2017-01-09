@@ -40,4 +40,10 @@
 
 **Link to work:** [Wiki viewer](https://nsivapalan.github.io/fcc-frontendprojects/wiki_viewer/index.html)
 
+### Day 5: January 8, 2017
 
+**Today's Progress**: Got the Wikipedia API to <em>finally</em> work!
+
+**Thoughts:** Although the search still needs to be fixed, I got the basic API working. I tested it with different inputs. After that, I got a basic layout done. Now need to clean up the JS, clean up the CSS and layout, and make sure everything works, of course.
+
+**Link to work:** [Wiki viewer](https://nsivapalan.github.io/fcc-frontendprojects/wiki_viewer/index.html)
