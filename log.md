@@ -47,3 +47,11 @@
 **Thoughts:** Although the search still needs to be fixed, I got the basic API working. I tested it with different inputs. After that, I got a basic layout done. Now need to clean up the JS, clean up the CSS and layout, and make sure everything works, of course.
 
 **Link to work:** [Wiki viewer](https://nsivapalan.github.io/fcc-frontendprojects/wiki_viewer/index.html)
+
+### Day 6: January 9, 2017
+
+**Today's Progress**: Made a lot of progress with layout and core functionality of WikiPedia Viewer is working.
+
+**Thoughts:** I fixed up the layout issues I was having and got the search to successfully work. When you enter a term into the input and hit the search icon, the results successfully show up. Only improvement would be to get results without clicking icon but rather hitting enter. Included some nice CSS transitions to make the results stand out.
+
+**Link to work:** [Wiki viewer](https://nsivapalan.github.io/fcc-frontendprojects/wiki_viewer/)
