@@ -55,3 +55,11 @@
 **Thoughts:** I fixed up the layout issues I was having and got the search to successfully work. When you enter a term into the input and hit the search icon, the results successfully show up. Only improvement would be to get results without clicking icon but rather hitting enter. Included some nice CSS transitions to make the results stand out.
 
 **Link to work:** [Wiki viewer](https://nsivapalan.github.io/fcc-frontendprojects/wiki_viewer/)
+
+### Day 7: January 10, 2017
+
+**Today's Progress**: Finished the Wikipedia Viewer project!
+
+**Thoughts:** I added in some JS effects for the results, picked a color scheme, updated the layout (again), updated my portfolio with the project, and made sure everything worked across devices. On to the Twitch TV project!
+
+**Link to work:** [Wiki viewer](https://nsivapalan.github.io/fcc-frontendprojects/wiki_viewer/)
