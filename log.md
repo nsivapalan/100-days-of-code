@@ -70,4 +70,4 @@
 
 **Thoughts:** Although instructions say to use some other website instead of Twitch's official API, I went through the docs, and it was difficult to understand. So eventually, decided to use Twitch's official API and now going with that. Got my API registered and found out a way to hide the key, thanks to [this](https://gist.github.com/derzorngottes/3b57edc1f996dddcab25)! Will keep going through docs to get a comprehensive understanding of the API so I can play around with it and take advantage of all of its features and not just the ones required for the project.
 
-**Link to work:** [Wiki viewer](https://nsivapalan.github.io/fcc-frontendprojects/wiki_viewer/)
+**Link to work:** [Twitch Streams](nimalen.com/fcc-frontendprojects/twitch_streams)
