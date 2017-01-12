@@ -72,6 +72,7 @@
 
 **Link to work:** [Twitch Streams](nimalen.com/fcc-frontendprojects/twitch_streams)
 
+### Day 9: January 12, 2017
 
 **Today's Progress**: Got the Twitch TV API to work!
 
