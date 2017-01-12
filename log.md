@@ -63,3 +63,11 @@
 **Thoughts:** I added in some JS effects for the results, picked a color scheme, updated the layout (again), updated my portfolio with the project, and made sure everything worked across devices. On to the Twitch TV project!
 
 **Link to work:** [Wiki viewer](https://nsivapalan.github.io/fcc-frontendprojects/wiki_viewer/)
+
+### Day 8: January 11, 2017
+
+**Today's Progress**: Started on the Twitch TV API project. Got the API key and went through docs.
+
+**Thoughts:** Although instructions say to use some other website instead of Twitch's official API, I went through the docs, and it was difficult to understand. So eventually, decided to use Twitch's official API and now going with that. Got my API registered and found out a way to hide the key, thanks to [this](https://gist.github.com/derzorngottes/3b57edc1f996dddcab25)! Will keep going through docs to get a comprehensive understanding of the API so I can play around with it and take advantage of all of its features and not just the ones required for the project.
+
+**Link to work:** [Wiki viewer](https://nsivapalan.github.io/fcc-frontendprojects/wiki_viewer/)
