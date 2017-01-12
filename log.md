@@ -71,3 +71,10 @@
 **Thoughts:** Although instructions say to use some other website instead of Twitch's official API, I went through the docs, and it was difficult to understand. So eventually, decided to use Twitch's official API and now going with that. Got my API registered and found out a way to hide the key, thanks to [this](https://gist.github.com/derzorngottes/3b57edc1f996dddcab25)! Will keep going through docs to get a comprehensive understanding of the API so I can play around with it and take advantage of all of its features and not just the ones required for the project.
 
 **Link to work:** [Twitch Streams](nimalen.com/fcc-frontendprojects/twitch_streams)
+
+
+**Today's Progress**: Got the Twitch TV API to work!
+
+**Thoughts:** It took a lot of trial and error and reading through the docs and searching the web, but I finally was able to get the response I wanted by making the right request, printing to the console log. Next steps are to display that information on a basic layout and fulfill the user stories.
+
+**Link to work:** [Twitch Streams](nimalen.com/fcc-frontendprojects/twitch_streams)
