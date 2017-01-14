@@ -79,3 +79,11 @@
 **Thoughts:** It took a lot of trial and error and reading through the docs and searching the web, but I finally was able to get the response I wanted by making the right request, printing to the console log. Next steps are to display that information on a basic layout and fulfill the user stories.
 
 **Link to work:** [Twitch Streams](nimalen.com/fcc-frontendprojects/twitch_streams)
+
+### Day 10: January 13, 2017
+
+**Today's Progress**: Worked on Twitch streams and got live streams to show.
+
+**Thoughts:** Got the basic layout done and displaying live streams. Next, need to show all streams, including ones that are not offline and ones that simply don't exist. Also, need to improve layout and JS code. Have to figure out a way to improve speed, keep code concise, and achieve the user stories. A challenge, for sure, one that I am looking forward to!
+
+**Link to work:** [Twitch Streams](nimalen.com/fcc-frontendprojects/twitch_streams)
