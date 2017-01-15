@@ -87,3 +87,11 @@
 **Thoughts:** Got the basic layout done and displaying live streams. Next, need to show all streams, including ones that are not offline and ones that simply don't exist. Also, need to improve layout and JS code. Have to figure out a way to improve speed, keep code concise, and achieve the user stories. A challenge, for sure, one that I am looking forward to!
 
 **Link to work:** [Twitch Streams](nimalen.com/fcc-frontendprojects/twitch_streams)
+
+### Day 11: January 14, 2017
+
+**Today's Progress**: Got all channels to show.
+
+**Thoughts:** Showing all channels (except inactive). Still need to do work with removing duplicates and showing inactive channels. Having a search bar would be nice too. Then work on layout and CSS and improve the code.
+
+**Link to work:** [Twitch Streams](nimalen.com/fcc-frontendprojects/twitch_streams)
