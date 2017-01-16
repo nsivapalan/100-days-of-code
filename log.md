@@ -95,3 +95,11 @@
 **Thoughts:** Showing all channels (except inactive). Still need to do work with removing duplicates and showing inactive channels. Having a search bar would be nice too. Then work on layout and CSS and improve the code.
 
 **Link to work:** [Twitch Streams](nimalen.com/fcc-frontendprojects/twitch_streams)
+
+### Day 12: January 15, 2017
+
+**Today's Progress**: Improved layout and fulfilled all user stories.
+
+**Thoughts:** Fulfilled all the user stories - so I'm showing inactive channels and added in buttons to display the different types (online, offline, inactive, all). And I worked on the script but there's still duplicates that pop up and it doesn't work as expected. Weird but I'll have to dig deeper into the docs to fully understand what's going on "behind the scenes".
+
+**Link to work:** [Twitch Streams](nimalen.com/fcc-frontendprojects/twitch_streams)
