@@ -103,3 +103,11 @@
 **Thoughts:** Fulfilled all the user stories - so I'm showing inactive channels and added in buttons to display the different types (online, offline, inactive, all). And I worked on the script but there's still duplicates that pop up and it doesn't work as expected. Weird but I'll have to dig deeper into the docs to fully understand what's going on "behind the scenes".
 
 **Link to work:** [Twitch Streams](nimalen.com/fcc-frontendprojects/twitch_streams)
+
+### Day 13: January 16, 2017
+
+**Today's Progress**: Removed duplicates and using AJAX calls instead of getJSON. Also documented code and improved readability.
+
+**Thoughts:** I was able to remove duplicates and redid the code to make sure everything came in order, using AJAX instead of getJSON. Overall, a lot of learning today, reading the docs, and improving the code. I should be able to finish up the project tomorrow with some styling and improving the speed.
+
+**Link to work:** [Twitch Streams](nimalen.com/fcc-frontendprojects/twitch_streams)
