@@ -111,3 +111,11 @@
 **Thoughts:** I was able to remove duplicates and redid the code to make sure everything came in order, using AJAX instead of getJSON. Overall, a lot of learning today, reading the docs, and improving the code. I should be able to finish up the project tomorrow with some styling and improving the speed.
 
 **Link to work:** [Twitch Streams](nimalen.com/fcc-frontendprojects/twitch_streams)
+
+### Day 14: January 17, 2017
+
+**Today's Progress**: Finished the Twitch Streams project!
+
+**Thoughts:** I improved the layout and UI/UX along with changing up the color scheme. I was thinking of spending another couple hours or so implementing a search feature or an "add your own user" feature where people enter a name of the user and it comes up with their status. But we'll see; for now, I think I'll move on to the FCC challenges.
+
+**Link to work:** [Twitch Streams](nimalen.com/fcc-frontendprojects/twitch_streams)
