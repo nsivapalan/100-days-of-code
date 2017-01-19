@@ -119,3 +119,11 @@
 **Thoughts:** I improved the layout and UI/UX along with changing up the color scheme. I was thinking of spending another couple hours or so implementing a search feature or an "add your own user" feature where people enter a name of the user and it comes up with their status. But we'll see; for now, I think I'll move on to the FCC challenges.
 
 **Link to work:** [Twitch Streams](nimalen.com/fcc-frontendprojects/twitch_streams)
+
+### Day 15: January 18, 2017
+
+**Today's Progress**: Worked on a calculator app and completed an FCC challenge.
+
+**Thoughts:** I worked on a calculator app for a job app which was more complicated than expected. And completed 1 FCC challenge while reading up docs and articles on callbacks.
+
+**Link to work:** [FCC profile](freecodecamp.com/nsivapalan)
