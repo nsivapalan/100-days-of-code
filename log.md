@@ -127,3 +127,11 @@
 **Thoughts:** I worked on a calculator app for a job app which was more complicated than expected. And completed 1 FCC challenge while reading up docs and articles on callbacks.
 
 **Link to work:** [FCC profile](freecodecamp.com/nsivapalan)
+
+### Day 16: January 19, 2017
+
+**Today's Progress**: Completed FCC challenge and read up on docs on splicing and other Array functions.
+
+**Thoughts:** The FCC challenge (Roman Numerals Converter) took me the whole hour to think about and devise a solution. I will get better over time. At least time well spent with taking the time to find a solution and read the docs, hence improving my learning process. Also updated website with some content.
+
+**Link to work:** [FCC profile](freecodecamp.com/nsivapalan)
