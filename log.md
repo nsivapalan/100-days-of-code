@@ -135,3 +135,11 @@
 **Thoughts:** The FCC challenge (Roman Numerals Converter) took me the whole hour to think about and devise a solution. I will get better over time. At least time well spent with taking the time to find a solution and read the docs, hence improving my learning process. Also updated website with some content.
 
 **Link to work:** [FCC profile](freecodecamp.com/nsivapalan)
+
+### Day 17: January 20, 2017
+
+**Today's Progress**: Completed FCC challenge and read up on docs on Objects.
+
+**Thoughts:** This FCC challenge, Wherefore art thou, taught me a lot of things on Objects like their methods and how to access properties and values. Code was ugly and inefficient though so will work on that.
+
+**Link to work:** [FCC profile](freecodecamp.com/nsivapalan)
