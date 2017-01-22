@@ -143,3 +143,11 @@
 **Thoughts:** This FCC challenge, Wherefore art thou, taught me a lot of things on Objects like their methods and how to access properties and values. Code was ugly and inefficient though so will work on that.
 
 **Link to work:** [FCC profile](freecodecamp.com/nsivapalan)
+
+### Day 18: January 21, 2017
+
+**Today's Progress**: Completed 3 FCC challenges and read up on docs on Arrays.
+
+**Thoughts:** I was able to do 3 FCC challenges in under an hour, surprised but I guess some are harder than others. Also, I want to go back and find more efficient and neat solutions.
+
+**Link to work:** [FCC profile](freecodecamp.com/nsivapalan)
