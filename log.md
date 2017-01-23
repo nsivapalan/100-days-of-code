@@ -151,3 +151,11 @@
 **Thoughts:** I was able to do 3 FCC challenges in under an hour, surprised but I guess some are harder than others. Also, I want to go back and find more efficient and neat solutions.
 
 **Link to work:** [FCC profile](freecodecamp.com/nsivapalan)
+
+### Day 19: January 22, 2017
+
+**Today's Progress**: Completed 2 FCC challenges and read up on docs on Strings, learning new methods and properties.
+
+**Thoughts:** Finished 2 FCC challenges, read up on docs. Always learning some new method or property that makes the solution a lot more neater and efficient.
+
+**Link to work:** [FCC profile](freecodecamp.com/nsivapalan)
