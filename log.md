@@ -159,3 +159,11 @@
 **Thoughts:** Finished 2 FCC challenges, read up on docs. Always learning some new method or property that makes the solution a lot more neater and efficient.
 
 **Link to work:** [FCC profile](freecodecamp.com/nsivapalan)
+
+### Day 20: January 23, 2017
+
+**Today's Progress**: Completed an FCC challenge and learned how to use replace function with regex.
+
+**Thoughts:** Finished an FCC challenge and got to work on a second. Learned how to use the replace function with Regex. Still learning about different regex combos.
+
+**Link to work:** [FCC profile](freecodecamp.com/nsivapalan)
