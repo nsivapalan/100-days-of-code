@@ -167,3 +167,19 @@
 **Thoughts:** Finished an FCC challenge and got to work on a second. Learned how to use the replace function with Regex. Still learning about different regex combos.
 
 **Link to work:** [FCC profile](freecodecamp.com/nsivapalan)
+
+### Day 21: January 24, 2017
+
+**Today's Progress**: Finished an FCC challenge, learned more regex, and also documented code following good practices.
+
+**Thoughts:** Finished an FCC challenge learning more regex patterns and how to use the replace function. Also documented code for past projects.
+
+**Link to work:** [FCC profile](freecodecamp.com/nsivapalan)
+
+### Day 22: January 25, 2017
+
+**Today's Progress**: Worked on FCC challenge and worked through different regex patterns. Also updated GitHub repos.
+
+**Thoughts:** Worked on an FCC challenge (didn't finish it) and still working on it. Regex is tough but I'm starting to get the hang of it. Updated the GitHub repo for Tribute page with a README.
+
+**Link to work:** [FCC profile](freecodecamp.com/nsivapalan)
