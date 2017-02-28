@@ -183,3 +183,11 @@
 **Thoughts:** Worked on an FCC challenge (didn't finish it) and still working on it. Regex is tough but I'm starting to get the hang of it. Updated the GitHub repo for Tribute page with a README.
 
 **Link to work:** [FCC profile](freecodecamp.com/nsivapalan)
+
+### Day 23: February 27, 2017
+
+**Today's Progress**: Did 3 FCC challenges and read up on documentation. 
+
+**Thoughts:** Well, it's been a while. It took some time to get back into it but I do want to finish the 100 days of code challenge. The FCC challenges are tough and it'll take a while to get back into the rhythm and use what I've learned but it will come as I read up on the docs and continue coding.
+
+**Link to work:** [FCC profile](freecodecamp.com/nsivapalan)
