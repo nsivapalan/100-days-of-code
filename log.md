@@ -191,3 +191,11 @@
 **Thoughts:** Well, it's been a while. It took some time to get back into it but I do want to finish the 100 days of code challenge. The FCC challenges are tough and it'll take a while to get back into the rhythm and use what I've learned but it will come as I read up on the docs and continue coding.
 
 **Link to work:** [FCC profile](freecodecamp.com/nsivapalan)
+
+### Day 24: February 28, 2017
+
+**Today's Progress**: Did 3 FCC challenges and read up on documentation. 
+
+**Thoughts:** Completed another 3 FCC challenges, reading up on docs and looking at different ways to tackle the problem. Still learning how to best optimize my code and make it more readable.
+
+**Link to work:** [FCC profile](freecodecamp.com/nsivapalan)
