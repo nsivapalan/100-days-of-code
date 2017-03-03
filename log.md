@@ -199,3 +199,11 @@
 **Thoughts:** Completed another 3 FCC challenges, reading up on docs and looking at different ways to tackle the problem. Still learning how to best optimize my code and make it more readable.
 
 **Link to work:** [FCC profile](freecodecamp.com/nsivapalan)
+
+### Day 25: March 2, 2017
+
+**Today's Progress**: Did 3 more FCC challenges and read up on documentation. 
+
+**Thoughts:** Yet 3 more FCC challenges. I'm finding that some of them are tougher than others and require some real "digging" and more work to come up with a solution. And along the way with a lot of searching and reading, I'm learning too. Almost done with the intermediate algorithms section (1 more).
+
+**Link to work:** [FCC profile](freecodecamp.com/nsivapalan)
