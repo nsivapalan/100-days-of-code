@@ -126,7 +126,7 @@
 
 **Thoughts:** I worked on a calculator app for a job app which was more complicated than expected. And completed 1 FCC challenge while reading up docs and articles on callbacks.
 
-**Link to work:** [FCC profile](freecodecamp.com/nsivapalan)
+**Link to work:** [FCC profile](https://freecodecamp.com/nsivapalann)
 
 ### Day 16: January 19, 2017
 
@@ -134,7 +134,7 @@
 
 **Thoughts:** The FCC challenge (Roman Numerals Converter) took me the whole hour to think about and devise a solution. I will get better over time. At least time well spent with taking the time to find a solution and read the docs, hence improving my learning process. Also updated website with some content.
 
-**Link to work:** [FCC profile](freecodecamp.com/nsivapalan)
+**Link to work:** [FCC profile](https://freecodecamp.com/nsivapalan)
 
 ### Day 17: January 20, 2017
 
@@ -142,7 +142,7 @@
 
 **Thoughts:** This FCC challenge, Wherefore art thou, taught me a lot of things on Objects like their methods and how to access properties and values. Code was ugly and inefficient though so will work on that.
 
-**Link to work:** [FCC profile](freecodecamp.com/nsivapalan)
+**Link to work:** [FCC profile](https://freecodecamp.com/nsivapalan)
 
 ### Day 18: January 21, 2017
 
@@ -150,7 +150,7 @@
 
 **Thoughts:** I was able to do 3 FCC challenges in under an hour, surprised but I guess some are harder than others. Also, I want to go back and find more efficient and neat solutions.
 
-**Link to work:** [FCC profile](freecodecamp.com/nsivapalan)
+**Link to work:** [FCC profile](https://freecodecamp.com/nsivapalan)
 
 ### Day 19: January 22, 2017
 
@@ -158,7 +158,7 @@
 
 **Thoughts:** Finished 2 FCC challenges, read up on docs. Always learning some new method or property that makes the solution a lot more neater and efficient.
 
-**Link to work:** [FCC profile](freecodecamp.com/nsivapalan)
+**Link to work:** [FCC profile](https://freecodecamp.com/nsivapalan)
 
 ### Day 20: January 23, 2017
 
@@ -166,7 +166,7 @@
 
 **Thoughts:** Finished an FCC challenge and got to work on a second. Learned how to use the replace function with Regex. Still learning about different regex combos.
 
-**Link to work:** [FCC profile](freecodecamp.com/nsivapalan)
+**Link to work:** [FCC profile](https://freecodecamp.com/nsivapalan)
 
 ### Day 21: January 24, 2017
 
@@ -174,7 +174,7 @@
 
 **Thoughts:** Finished an FCC challenge learning more regex patterns and how to use the replace function. Also documented code for past projects.
 
-**Link to work:** [FCC profile](freecodecamp.com/nsivapalan)
+**Link to work:** [FCC profile](https://freecodecamp.com/nsivapalan)
 
 ### Day 22: January 25, 2017
 
@@ -182,7 +182,7 @@
 
 **Thoughts:** Worked on an FCC challenge (didn't finish it) and still working on it. Regex is tough but I'm starting to get the hang of it. Updated the GitHub repo for Tribute page with a README.
 
-**Link to work:** [FCC profile](freecodecamp.com/nsivapalan)
+**Link to work:** [FCC profile](https://freecodecamp.com/nsivapalan)
 
 ### Day 23: February 27, 2017
 
@@ -190,7 +190,7 @@
 
 **Thoughts:** Well, it's been a while. It took some time to get back into it but I do want to finish the 100 days of code challenge. The FCC challenges are tough and it'll take a while to get back into the rhythm and use what I've learned but it will come as I read up on the docs and continue coding.
 
-**Link to work:** [FCC profile](freecodecamp.com/nsivapalan)
+**Link to work:** [FCC profile](https://freecodecamp.com/nsivapalan)
 
 ### Day 24: February 28, 2017
 
@@ -198,7 +198,7 @@
 
 **Thoughts:** Completed another 3 FCC challenges, reading up on docs and looking at different ways to tackle the problem. Still learning how to best optimize my code and make it more readable.
 
-**Link to work:** [FCC profile](freecodecamp.com/nsivapalan)
+**Link to work:** [FCC profile](https://freecodecamp.com/nsivapalan)
 
 ### Day 25: March 2, 2017
 
@@ -206,4 +206,4 @@
 
 **Thoughts:** Yet 3 more FCC challenges. I'm finding that some of them are tougher than others and require some real "digging" and more work to come up with a solution. And along the way with a lot of searching and reading, I'm learning too. Almost done with the intermediate algorithms section (1 more).
 
-**Link to work:** [FCC profile](freecodecamp.com/nsivapalan)
+**Link to work:** [FCC profile](https://freecodecamp.com/nsivapalan)
