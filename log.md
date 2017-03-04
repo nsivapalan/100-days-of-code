@@ -207,3 +207,12 @@
 **Thoughts:** Yet 3 more FCC challenges. I'm finding that some of them are tougher than others and require some real "digging" and more work to come up with a solution. And along the way with a lot of searching and reading, I'm learning too. Almost done with the intermediate algorithms section (1 more).
 
 **Link to work:** [FCC profile](https://freecodecamp.com/nsivapalan)
+
+
+### Day 26: March 3, 2017
+
+**Today's Progress**: Did 1 FCC challenge, finishing up intermediate algorithms section, and in progress of next one.
+
+**Thoughts:** Finished the last challenge in intermediate algorithms. Now onto the advanced ones which are significantly tougher. I still need to work on my understanding of regex and using the combinations effectively.
+
+**Link to work:** [FCC profile](https://freecodecamp.com/nsivapalan)
