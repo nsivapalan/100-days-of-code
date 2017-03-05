@@ -208,11 +208,18 @@
 
 **Link to work:** [FCC profile](https://freecodecamp.com/nsivapalan)
 
-
 ### Day 26: March 3, 2017
 
 **Today's Progress**: Did 1 FCC challenge, finishing up intermediate algorithms section, and in progress of next one.
 
 **Thoughts:** Finished the last challenge in intermediate algorithms. Now onto the advanced ones which are significantly tougher. I still need to work on my understanding of regex and using the combinations effectively.
+
+**Link to work:** [FCC profile](https://freecodecamp.com/nsivapalan)
+
+### Day 27: March 4, 2017
+
+**Today's Progress**: Worked on FCC algorithm "validate phone numbers" and finished all lessons on here: https://regexone.com/.
+
+**Thoughts:** Worked on the FCC challenge in advanced algorithms section. Pretty tough and so I'm trying to improve my understanding of regex by doing lessons and practie problems from the link above. Still quite a ways to go with regex!
 
 **Link to work:** [FCC profile](https://freecodecamp.com/nsivapalan)
