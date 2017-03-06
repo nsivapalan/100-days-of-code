@@ -223,3 +223,11 @@
 **Thoughts:** Worked on the FCC challenge in advanced algorithms section. Pretty tough and so I'm trying to improve my understanding of regex by doing lessons and practie problems from the link above. Still quite a ways to go with regex!
 
 **Link to work:** [FCC profile](https://freecodecamp.com/nsivapalan)
+
+### Day 28: March 5, 2017
+
+**Today's Progress**: Finished first chapter of *YDKJS: Scope & Closures*.
+
+**Thoughts:** Took a break from coding and decided to start reading the second book of the *YDKJS* series. Pretty interesting stuff and definitely improved my understanding of the language. Some progress is better than nothing.
+
+**Link to work:** [*Scope and Closures*](https://github.com/getify/You-Dont-Know-JS/tree/master/scope%20%26%20closures)
