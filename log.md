@@ -231,3 +231,11 @@
 **Thoughts:** Took a break from coding and decided to start reading the second book of the *YDKJS* series. Pretty interesting stuff and definitely improved my understanding of the language. Some progress is better than nothing.
 
 **Link to work:** [*Scope and Closures*](https://github.com/getify/You-Dont-Know-JS/tree/master/scope%20%26%20closures)
+
+### Day 29: March 6, 2017
+
+**Today's Progress**: Finished second chapter and started third chapter of *YDKJS: Scope & Closures*.
+
+**Thoughts:** Improving my understanding of scope greatly and a lot of other cool features in JS, that I thought I understood but there's much more to learn.
+
+**Link to work:** [*Scope and Closures*](https://github.com/getify/You-Dont-Know-JS/tree/master/scope%20%26%20closures)
