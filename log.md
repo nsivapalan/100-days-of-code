@@ -247,3 +247,11 @@
 **Thoughts:** Learned about function vs. block scope and how there have been new keywords and features added since ES6 that allow you to take advantage of block scope in much greater ways to adhere to the Principle of Least Privilege and maintain great software design and cleaner/more-readable code.
 
 **Link to work:** [*Scope and Closures*](https://github.com/getify/You-Dont-Know-JS/tree/master/scope%20%26%20closures)
+
+### Day 31: March 8, 2017
+
+**Today's Progress**: Finished fourth chapter and part of fifth chapter of *YDKJS: Scope & Closures*.
+
+**Thoughts:** Learned a lot about hoisting and how closure really works. The features were always there and I probably used them at some point in my code but now I really recognize how I can use and leverage these features to produce more efficient and understandable code.
+
+**Link to work:** [*Scope and Closures*](https://github.com/getify/You-Dont-Know-JS/tree/master/scope%20%26%20closures)
