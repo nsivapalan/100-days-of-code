@@ -255,3 +255,12 @@
 **Thoughts:** Learned a lot about hoisting and how closure really works. The features were always there and I probably used them at some point in my code but now I really recognize how I can use and leverage these features to produce more efficient and understandable code.
 
 **Link to work:** [*Scope and Closures*](https://github.com/getify/You-Dont-Know-JS/tree/master/scope%20%26%20closures)
+
+### Day 32: March 9, 2017
+
+**Today's Progress**: Finished fifth chapter, appendices, and the entirety of *YDKJS: Scope & Closures*!
+
+**Thoughts:** Closure is something that I will be referencing and looking to understand more deeply as I am still a bit fuzzy with how it works in regards to callbacks. I also want to review modules. But I learned a whole lot from this book and it has certainly helped me understand what's really going on behind the scenes when you write a line of code that doesn't seem to be doing much. 
+
+**Link to work:** [*Scope and Closures*](https://github.com/getify/You-Dont-Know-JS/tree/master/scope%20%26%20closures)
+
