@@ -264,3 +264,11 @@
 
 **Link to work:** [*Scope and Closures*](https://github.com/getify/You-Dont-Know-JS/tree/master/scope%20%26%20closures)
 
+### Day 33: March 10, 2017
+
+**Today's Progress**: Did 3 coding challenges (or katas) on Codewars.
+
+**Thoughts:** Went through the JS fundamentals on CodeWars, doing 3 challenges there. Certainly challenging and I looked through the different solutions from others after and learned more from there too.
+
+**Link to work:** [Codewars profile](https://www.codewars.com/users/ns28/completed)
+
