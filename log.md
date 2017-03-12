@@ -272,3 +272,10 @@
 
 **Link to work:** [Codewars profile](https://www.codewars.com/users/ns28/completed)
 
+### Day 34: March 11, 2017
+
+**Today's Progress**: Did 3 more coding challenges on Codewars.
+
+**Thoughts:** Again going through the JS fundamentals track, learning new methods and finding different solutions to the problem and ways to optimize and refactor.
+
+**Link to work:** [Codewars profile](https://www.codewars.com/users/ns28/completed)
