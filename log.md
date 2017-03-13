@@ -279,3 +279,11 @@
 **Thoughts:** Again going through the JS fundamentals track, learning new methods and finding different solutions to the problem and ways to optimize and refactor.
 
 **Link to work:** [Codewars profile](https://www.codewars.com/users/ns28/completed)
+
+### Day 35: March 12, 2017
+
+**Today's Progress**: Did 5 coding challenges on Codewars.
+
+**Thoughts:** Learning how to write neater, more optimized solutions, and less potato programming!
+
+**Link to work:** [Codewars profile](https://www.codewars.com/users/ns28/completed)
